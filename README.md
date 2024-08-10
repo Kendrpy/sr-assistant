@@ -1,2 +1,3 @@
-# sr-assistant
-Scammer Reporting Assistant
+# Scammer Reporting Assistant
+
+This is an assistant for scam reporting on Discord.
